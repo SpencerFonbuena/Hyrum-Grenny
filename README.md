@@ -1,4 +1,4 @@
-# OM-Manufacturing Repo contains three examples of my most recent efforts to form a more data centered trading strategy. 
+# Repo with a few examples of personal quantitative research. Other Larger Projects are referenced below.
 
 full_analysis.py
 
@@ -11,3 +11,4 @@ This file was used to create a dataset on a VM to feed into a convolutional neur
 trainnetwork.py
 
 This is an application of a slightly modified VGG16 architecture that uses the data from the "createdataset.py" dataset and tries to predict price movement with computer vision.
+
